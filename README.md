@@ -64,8 +64,8 @@
 
 ## Контактная информация
 
-- **Автор**: Имя Фамилия (При желании)
-- **Email**: email@example.com (если нужно)
+- **Автор**: Andrei Chmelev
+- **Email**: an.chmelev@gmail.com
 
 Если у вас есть вопросы или предложения по улучшению репозитория, открывайте [issue](https://github.com/username/название-репо/issues) или присылайте pull request.
 ```
